@@ -1,0 +1,68 @@
+body {
+
+    margin:0;
+    font-family: Arial, sans-serif;
+    padding:0;
+    box-sizing: border-box;
+
+}
+
+.container {
+    display: flex;
+    width: 100%;
+
+}
+
+.sidebar {
+    width: 250%px;
+    background-color: #2e8b57;
+    color: white;
+    padding: 20px;
+}
+
+.sidebar h2 {
+    margin-bottom: 10px;
+
+}
+
+.sidebar u1 {
+    list-style: none;
+    padding: 0%;
+
+}
+
+.sidebar l1 {
+    padding: 8px 0;
+    border-bottom: 1px solid rgha{255. 255. 255. 0,2};
+
+}
+
+.chat {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    background-color: #f5f5f5
+    
+}
+
+.chat .header {
+    background-color: #4caf50;
+    color: white;
+    padding: 15px;
+    font-weight: bold;
+}
+
+.chat .body {
+    flex: 1;
+    padding: 20px;
+    overflow-y: auto;
+}
+
+.mensage {
+    max-width: 60%;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
