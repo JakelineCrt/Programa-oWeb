@@ -1,0 +1,33 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin: 20px;
+  background-color: #f9f9f9;
+
+}
+    h1{
+        font-size: 2em;
+
+    }
+
+input{
+    margin: 5px;
+    padding: 5px;
+}
+
+button{
+    padding: 5px 10px;
+    background-color: purple;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: darkmagenta;
+}
+
+#personagems-lista {
+    margin-top: 20px;
+
+  }

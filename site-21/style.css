@@ -1,0 +1,37 @@
+*{
+    text-align: center;
+
+}
+h1{
+    font-size: 40px;
+
+}
+#vermelho{
+    font-size: 20px;
+    background-color: red;
+    padding: 5px 15px;
+    color: rgb(0, 0,0);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#azul{
+    font-size: 20px;
+    background-color: blue;
+    padding: 5px 15px;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+#verde{
+    font-size: 20px;
+    background-color: green;
+    padding: 5px 15px;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}

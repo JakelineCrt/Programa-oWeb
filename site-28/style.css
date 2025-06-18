@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#quadrado {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    margin: 0 auto;
+    border-radius: 10px;
+    transition: background-clor 0.3s;
+
+}
+
+h3 {
+    color: #333;
+}

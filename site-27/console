@@ -1,0 +1,13 @@
+let item = prompt("Morango:")
+lista.push(item1)
+
+let item2 = prompt ("Abacaxi:")
+lista.push(item2)
+
+let item3 = prompt ("Uva:")
+lista.push(item3)
+
+let frutas = ("Morando, Abacaxi, Uva: ")
+
+console.log("lista original:");
+console.log(compras)
